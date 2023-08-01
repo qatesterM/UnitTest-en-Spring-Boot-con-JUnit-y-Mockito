@@ -15,14 +15,14 @@
     <description>Proyecto Demo para UnitTest</description>
 
     <properties>
-        <java.version>1.8</java.version>
+        <java.version>20</java.version>
     </properties>
 
     <dependencies>
         <dependency>
             <groupId>com.h2database</groupId>
             <artifactId>h2</artifactId>
-            <version>1.4.200</version>
+            <version>2.2.220</version>
             <scope>runtime</scope>
         </dependency>
         <dependency>
